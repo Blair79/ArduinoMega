@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+libraries=["Adafruit L3GD20 U",{"package"\:"arduino","platform"\:"avr","library"\:"Wire"},"Adafruit BMP085 Unified","Kalman Filter Library","Adafruit AHRS","Adafruit LSM303DLHC","Adafruit Unified Sensor","Servo"]
